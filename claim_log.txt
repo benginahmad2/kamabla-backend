@@ -1,0 +1,311 @@
+
+[2024-08-28 05:43:14] User not found: User ID: 4546546.
+[2024-08-29 12:01:45] User ID: 965867618, Balance: 16105
+[2024-08-29 12:02:11] User ID: 965867618, Balance: 16105
+[2024-08-31 06:45:03] User not found: User ID: @ABOHASAN0101.
+[2024-08-31 06:45:05] User not found: User ID: @ABOHASAN0101.
+[2024-08-31 06:48:56] User ID: 5995384152, Balance: 29833
+[2024-08-31 06:50:10] User ID: 5995384152, Balance: 29833
+[2024-08-31 06:54:17] User ID: 5995384152, Balance: 29833
+[2024-08-31 06:54:36] Balance reset successfully for User ID: 5995384152
+[2024-08-31 06:54:37] User ID: 5995384152, Balance: 0
+[2024-08-31 06:54:37] No balance available for User ID: 5995384152.
+[2024-08-31 06:54:54] User ID: 5995384152, Balance: 0
+[2024-08-31 06:54:54] No balance available for User ID: 5995384152.
+[2024-08-31 06:54:55] User ID: 5995384152, Balance: 0
+[2024-08-31 06:54:55] No balance available for User ID: 5995384152.
+[2024-08-31 06:55:38] User ID: 5995384152, Balance: 0
+[2024-08-31 06:55:38] No balance available for User ID: 5995384152.
+[2024-08-31 06:55:40] User ID: 5995384152, Balance: 0
+[2024-08-31 06:55:40] No balance available for User ID: 5995384152.
+[2024-08-31 06:55:41] User ID: 5995384152, Balance: 0
+[2024-08-31 06:55:41] No balance available for User ID: 5995384152.
+[2024-08-31 06:55:41] User ID: 5995384152, Balance: 0
+[2024-08-31 06:55:41] No balance available for User ID: 5995384152.
+[2024-08-31 06:56:25] User ID: 5995384152, Balance: 0
+[2024-08-31 06:56:25] No balance available for User ID: 5995384152.
+[2024-08-31 06:56:27] User ID: 5995384152, Balance: 0
+[2024-08-31 06:56:27] No balance available for User ID: 5995384152.
+[2024-08-31 06:56:28] User ID: 5995384152, Balance: 0
+[2024-08-31 06:56:28] No balance available for User ID: 5995384152.
+[2024-08-31 06:56:29] User ID: 5995384152, Balance: 0
+[2024-08-31 06:56:29] No balance available for User ID: 5995384152.
+[2024-08-31 06:59:46] User ID: 5995384152, Balance: 15156
+[2024-08-31 07:00:03] Balance reset successfully for User ID: 5995384152
+[2024-08-31 07:00:03] User ID: 5995384152, Balance: 0
+[2024-08-31 07:00:03] No balance available for User ID: 5995384152.
+[2024-08-31 07:00:06] User ID: 5995384152, Balance: 0
+[2024-08-31 07:00:06] No balance available for User ID: 5995384152.
+[2024-08-31 09:08:18] User ID: 5995384152, Balance: 7022
+[2024-08-31 09:08:32] Balance reset successfully for User ID: 5995384152
+[2024-08-31 09:08:32] User ID: 5995384152, Balance: 0
+[2024-08-31 09:08:32] No balance available for User ID: 5995384152.
+[2024-08-31 10:41:55] User ID: 5995384152, Balance: 0
+[2024-08-31 10:41:55] No balance available for User ID: 5995384152.
+[2024-08-31 10:41:57] User ID: 5995384152, Balance: 0
+[2024-08-31 10:41:57] No balance available for User ID: 5995384152.
+[2024-08-31 10:41:58] User ID: 5995384152, Balance: 0
+[2024-08-31 10:41:58] No balance available for User ID: 5995384152.
+[2024-08-31 10:41:59] User ID: 5995384152, Balance: 0
+[2024-08-31 10:41:59] No balance available for User ID: 5995384152.
+[2024-08-31 10:41:59] User ID: 5995384152, Balance: 0
+[2024-08-31 10:41:59] No balance available for User ID: 5995384152.
+[2024-08-31 10:41:59] User ID: 5995384152, Balance: 0
+[2024-08-31 10:41:59] No balance available for User ID: 5995384152.
+[2024-08-31 10:42:00] User ID: 5995384152, Balance: 0
+[2024-08-31 10:42:00] No balance available for User ID: 5995384152.
+[2024-09-02 12:09:17] User ID: 1338855119, Balance: 0
+[2024-09-02 12:09:17] No balance available for User ID: 1338855119.
+[2024-09-02 12:09:23] User ID: 1338855119, Balance: 0
+[2024-09-02 12:09:23] No balance available for User ID: 1338855119.
+[2024-09-02 12:09:25] User ID: 1338855119, Balance: 0
+[2024-09-02 12:09:25] No balance available for User ID: 1338855119.
+[2024-09-03 06:50:22] User ID: 1807487473, Balance: 9851
+[2024-09-03 06:51:00] User ID: 1807487473, Balance: 9851
+[2024-09-03 07:00:11] User ID: 1807487473, Balance: 9851
+[2024-09-03 07:02:26] User ID: 1807487473, Balance: 9851
+[2024-09-03 07:02:28] User ID: 1807487473, Balance: 9851
+[2024-09-03 07:05:06] User ID: 1807487473, Balance: 9851
+[2024-09-03 07:05:52] User ID: 1807487473, Balance: 9851
+[2024-09-03 07:05:53] User ID: 1807487473, Balance: 9851
+[2024-09-03 07:05:53] User ID: 1807487473, Balance: 9851
+[2024-09-03 07:08:46] User ID: 1807487473, Balance: 9851
+[2024-09-06 09:54:54] User ID: 7033710546, Balance: 1343
+[2024-09-06 09:54:56] User ID: 7033710546, Balance: 1343
+[2024-09-06 09:56:50] User ID: 7033710546, Balance: 1343
+[2024-09-18 02:31:56] User ID: 7414147552, Balance: 1092
+[2024-09-18 02:46:07] User ID: 7414147552, Balance: 1665
+[2024-10-14T09:36:06.321Z] Database query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-balance WHERE telegramId = ?' at line 1
+[2024-10-14T09:44:31.756Z] Database query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-balance WHERE telegramId = ?' at line 1
+[2024-10-14T09:49:44.985Z] Database query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-balance WHERE telegramId = ?' at line 1
+[2024-10-14T09:49:58.180Z] Database query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-balance WHERE telegramId = ?' at line 1
+[2024-10-14T10:08:28.407Z] Database query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-balance WHERE telegramId = ?' at line 1
+[2024-10-14T10:10:54.419Z] Database query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-balance WHERE telegramId = ?' at line 1
+[2024-10-14T10:12:10.694Z] Database query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '-balance WHERE telegramId = ?' at line 1
+[2024-10-14T10:14:31.902Z] User ID: 7046184691, Balance:4324
+[2024-10-14T10:20:45.180Z] User ID: 7046185432, Balance:432225
+[2024-10-14T10:20:57.785Z] User ID: 7046185432, Balance:432225
+[2024-10-14T10:21:34.816Z] User ID: 7046185432, Balance:432225
+[2024-10-14T10:24:53.107Z] User ID: 7046184691, Balance:4324
+[2024-10-14T10:27:02.277Z] User ID: 7046184691, Balance:4324
+[2024-10-14T10:31:01.955Z] User ID: 7046184691, Balance:4324
+[2024-10-14T10:32:57.255Z] User ID: 7046184691, Balance:4324
+[2024-10-14T10:38:16.728Z] User ID: 7046184691, Balance:4324
+[2024-10-14T10:39:37.297Z] User ID: 4366185432, Balance:3425
+[2024-10-14T10:40:58.050Z] User ID: 4366185432, Balance:432
+[2024-10-14T10:41:12.088Z] User ID: 4366185432, Balance:432
+[2024-10-14T10:41:51.417Z] User ID: 4366185432, Balance:1432
+[2024-10-14T10:43:52.344Z] User ID: 4366185432, Balance:432
+[2024-10-14T10:56:01.175Z] User ID: 4366185432, Balance:432
+[2024-10-14T10:58:56.088Z] User ID: 4366185432, Balance:432
+[2024-10-14T10:59:17.611Z] User ID: 4366185432, Balance:1432
+[2024-10-14T11:05:54.784Z] User ID: 4366185432, Balance:432
+[2024-10-14T11:06:13.675Z] User ID: 4366185432, Balance:1432
+[2024-10-14T11:06:59.886Z] User ID: 7046184691, Balance:1042
+[2024-10-14T22:23:23.288Z] User ID: 4366185432, Balance:1432
+[2024-10-14T22:40:46.698Z] User ID: 4366185432, Balance:1432
+[2024-10-14T22:41:37.692Z] User ID: 4366185432, Balance:1432
+[2024-10-14T22:42:47.405Z] User ID: 4366185432, Balance:1432
+[2024-10-14T22:44:04.460Z] User ID: 4366185432, Balance:1432
+[2024-10-14T22:45:02.459Z] User ID: 4366185432, Balance:1432
+[2024-10-15T01:03:53.397Z] User ID: 4366185432, Balance:1432
+[2024-10-15T01:12:30.234Z] User ID: 7046184691, Balance:1042
+[2024-10-15T01:22:14.297Z] User ID: 4366185432, Balance:1432
+[2024-10-15T01:23:00.989Z] User ID: 4366185432, Balance:1432
+[2024-10-15T01:24:23.905Z] User ID: 4366185432, Balance:1432
+[2024-10-15T01:35:15.662Z] User ID: 4366185432, Balance:1432
+[2024-10-15T01:35:48.431Z] User ID: 4366185432, Balance:1432
+[2024-10-15T01:44:51.716Z] User ID: 4366185432, Balance:1432
+[2024-10-15T01:46:45.326Z] User ID: 4366185432, Balance:1432
+[2024-10-15T01:53:14.300Z] User ID: 4366185432, Balance:1432
+[2024-10-15T01:53:38.798Z] Balance reset successfully for User ID: 4366185432
+[2024-10-15T02:48:34.188Z] User ID: 4366185432, Balance:1023
+[2024-10-15T02:48:58.639Z] Balance reset successfully for User ID: 4366185432
+[2024-10-15T02:50:08.797Z] User ID: 4366185432, Balance:432
+[2024-10-15T05:36:32.483Z] User ID: 4366185432, Balance:432
+[2024-10-15T05:36:54.663Z] User ID: 4366185432, Balance:1032
+[2024-10-15T05:39:36.619Z] Balance reset successfully for User ID: 4366185432
+[2024-10-15T05:46:38.286Z] User ID: 4366185432, Balance:0
+[2024-10-15T05:46:38.291Z] No balance available for User ID: 4366185432.
+[2024-10-15T05:46:49.970Z] User ID: 4366185432, Balance:0
+[2024-10-15T05:46:49.970Z] No balance available for User ID: 4366185432.
+[2024-10-15T05:47:12.978Z] User ID: 4366185432, Balance:1034
+[2024-10-15T05:47:30.377Z] Balance reset successfully for User ID: 4366185432
+[2024-10-15T05:52:32.778Z] User ID: 4366185432, Balance:1021
+[2024-10-15T05:53:29.027Z] User ID: 4366185432, Balance:1021
+[2024-10-15T05:54:09.009Z] User ID: 4366185432, Balance:1021
+[2024-10-15T05:55:29.433Z] User ID: 4366185432, Balance:1021
+[2024-10-15T05:55:55.926Z] Balance reset successfully for User ID: 4366185432
+[2024-10-15T05:56:58.364Z] User ID: 4366185432, Balance:1012
+[2024-10-15T05:57:13.311Z] Balance reset successfully for User ID: 4366185432
+[2024-10-15T06:05:35.954Z] User ID: 4366185432, Balance:1020
+[2024-10-15T06:06:03.785Z] User ID: 4366185432, Balance:1020
+[2024-10-15T06:09:46.648Z] User ID: 4366185432, Balance:1020
+[2024-10-15T06:10:02.293Z] User ID: 4366185432, Balance:1020
+[2024-10-15T06:10:28.331Z] User ID: 4366185432, Balance:1020
+[2024-10-15T06:32:22.804Z] User ID: 4366185432, Balance:1020
+[2024-10-15T06:32:38.199Z] Balance reset successfully for User ID: 4366185432
+[2024-10-15T06:33:18.597Z] User ID: 4366185432, Balance:1022
+[2024-10-15T06:33:27.535Z] Balance reset successfully for User ID: 4366185432
+[2024-10-15T06:39:40.517Z] User ID: 4366185432, Balance:0
+[2024-10-15T06:39:40.517Z] No balance available for User ID: 4366185432.
+[2024-10-15T06:40:08.183Z] User ID: 4366185432, Balance:1023
+[2024-10-15T06:44:20.876Z] User ID: 4366185432, Balance:1023
+[2024-10-15T06:44:32.622Z] Balance reset successfully for User ID: 4366185432
+[2024-10-15T06:48:53.117Z] User ID: 4366185432, Balance:1034
+[2024-10-15T06:49:13.452Z] Balance reset successfully for User ID: 4366185432
+[2024-10-15T06:59:12.260Z] User ID: 4366185432, Balance:1023
+[2024-10-15T06:59:29.613Z] Balance reset successfully for User ID: 4366185432
+[2024-10-15T07:00:43.826Z] User ID: 4366185432, Balance:1205
+[2024-10-15T07:00:57.955Z] Balance reset successfully for User ID: 4366185432
+[2024-10-15T07:01:33.899Z] User ID: 4366185432, Balance:1033
+[2024-10-15T07:02:10.235Z] User ID: 4366185432, Balance:1033
+[2024-10-15T07:02:38.886Z] Balance reset successfully for User ID: 4366185432
+[2024-10-15T07:15:09.288Z] User ID: 4366185432, Balance:0
+[2024-10-15T07:15:09.288Z] No balance available for User ID: 4366185432.
+[2024-10-15T07:26:38.989Z] User ID: 4366185432, Balance:0
+[2024-10-15T07:26:38.989Z] No balance available for User ID: 4366185432.
+[2024-10-15T07:27:06.576Z] User ID: 4366185432, Balance:1022
+[2024-10-15T07:27:27.762Z] Balance reset successfully for User ID: 4366185432
+[2024-10-15T07:27:39.749Z] User ID: 4366185432, Balance:1200
+[2024-10-15T07:27:48.619Z] Balance reset successfully for User ID: 4366185432
+[2024-10-15T07:27:49.636Z] User ID: 4366185432, Balance:0
+[2024-10-15T07:27:49.636Z] No balance available for User ID: 4366185432.
+[2024-10-15T07:27:53.691Z] User ID: 4366185432, Balance:0
+[2024-10-15T07:27:53.691Z] No balance available for User ID: 4366185432.
+[2024-10-15T07:29:02.296Z] User ID: 4366185432, Balance:0
+[2024-10-15T07:29:02.296Z] No balance available for User ID: 4366185432.
+[2024-10-15T07:30:40.858Z] User ID: 4366185432, Balance:1200
+[2024-10-15T07:30:59.736Z] User ID: 4366185432, Balance:1200
+[2024-10-15T07:31:12.753Z] Balance reset successfully for User ID: 4366185432
+[2024-10-15T07:31:12.762Z] User ID: 4366185432, Balance:0
+[2024-10-15T07:31:12.762Z] No balance available for User ID: 4366185432.
+[2024-10-15T07:31:25.494Z] User ID: 4366185432, Balance:0
+[2024-10-15T07:31:25.495Z] No balance available for User ID: 4366185432.
+[2024-10-15T07:31:57.974Z] User ID: 4366185432, Balance:1354
+[2024-10-15T07:32:21.421Z] Balance reset successfully for User ID: 4366185432
+[2024-10-15T07:32:21.431Z] User ID: 4366185432, Balance:0
+[2024-10-15T07:32:21.432Z] No balance available for User ID: 4366185432.
+[2024-10-15T07:35:34.430Z] User ID: 4366185432, Balance:0
+[2024-10-15T07:35:34.431Z] No balance available for User ID: 4366185432.
+[2024-10-15T07:36:00.781Z] User ID: 4366185432, Balance:1290
+[2024-10-15T07:36:21.118Z] Balance reset successfully for User ID: 4366185432
+[2024-10-15T07:36:21.126Z] User ID: 4366185432, Balance:0
+[2024-10-15T07:36:21.126Z] No balance available for User ID: 4366185432.
+[2024-10-15T07:50:46.413Z] User ID: 7046184691, Balance:1042
+[2024-10-15T07:51:04.795Z] Balance reset successfully for User ID: 7046184691
+[2024-10-15T07:51:04.805Z] User ID: 7046184691, Balance:0
+[2024-10-15T07:51:04.806Z] No balance available for User ID: 7046184691.
+[2024-10-15T07:54:22.158Z] User ID: 7046185432, Balance:1422
+[2024-10-15T07:54:33.445Z] User ID: 7046185432, Balance:1422
+[2024-10-15T07:54:50.146Z] User ID: 7046185432, Balance:1422
+[2024-10-15T07:55:06.258Z] User ID: 7046185432, Balance:1422
+[2024-10-15T07:55:20.013Z] User ID: 7046185432, Balance:1422
+[2024-10-15T07:55:33.103Z] Balance reset successfully for User ID: 7046185432
+[2024-10-15T07:55:33.113Z] User ID: 7046185432, Balance:0
+[2024-10-15T07:55:33.113Z] No balance available for User ID: 7046185432.
+[2024-10-15T07:56:20.281Z] User ID: 7046185432, Balance:0
+[2024-10-15T07:56:20.282Z] No balance available for User ID: 7046185432.
+[2024-10-15T07:56:48.549Z] User ID: 7046185432, Balance:0
+[2024-10-15T07:56:48.549Z] No balance available for User ID: 7046185432.
+[2024-10-15T07:57:06.357Z] User ID: 7046185432, Balance:0
+[2024-10-15T07:57:06.357Z] No balance available for User ID: 7046185432.
+[2024-10-15T07:57:58.242Z] User ID: 7046185432, Balance:1104
+[2024-10-15T07:58:16.972Z] User ID: 7046185432, Balance:1104
+[2024-10-15T07:58:28.674Z] User ID: 7046185432, Balance:1104
+[2024-10-15T07:58:34.506Z] User ID: 7046185432, Balance:1104
+[2024-10-15T07:58:39.771Z] User ID: 7046185432, Balance:1104
+[2024-10-15T07:59:03.916Z] Balance reset successfully for User ID: 7046185432
+[2024-10-15T07:59:03.937Z] User ID: 7046185432, Balance:0
+[2024-10-15T07:59:03.937Z] No balance available for User ID: 7046185432.
+[2024-10-15T10:41:05.728Z] User ID: 7046185432, Balance:1207
+[2024-10-15T10:41:17.266Z] User ID: 7046185432, Balance:1207
+[2024-10-15T10:45:00.020Z] User ID: 7046185432, Balance:1207
+[2024-10-15T10:45:12.405Z] Balance reset successfully for User ID: 7046185432
+[2024-10-15T10:45:12.417Z] User ID: 7046185432, Balance:0
+[2024-10-15T10:45:12.417Z] No balance available for User ID: 7046185432.
+[2024-10-15T18:58:40.136Z] Database query error: getaddrinfo ENOTFOUND localhost:3306
+[2024-10-15T18:59:33.166Z] Database query error: getaddrinfo ENOTFOUND localhost:3306
+[2024-10-15T19:04:05.296Z] User ID: 516714992, Balance:3092
+[2024-10-15T19:04:20.386Z] Balance reset successfully for User ID: 516714992
+[2024-10-15T19:04:20.400Z] User ID: 516714992, Balance:0
+[2024-10-15T19:04:20.400Z] No balance available for User ID: 516714992.
+[2024-10-15T19:26:44.836Z] Database query error: getaddrinfo ENOTFOUND http://63.250.38.114
+[2024-10-15T19:29:31.076Z] Database query error: getaddrinfo ENOTFOUND http://63.250.38.114
+[2024-10-16T05:43:44.459Z] Telegram ID is required.
+[2024-10-16T05:45:19.608Z] Telegram ID is required.
+[2024-10-16T05:45:57.471Z] Telegram ID is required.
+[2024-10-16T05:49:31.155Z] Telegram ID is required.
+[2024-10-16T05:50:49.408Z] User ID: 1818137668, Balance:2500
+[2024-10-16T05:51:06.617Z] User ID: 1818137668, Balance:2500
+[2024-10-16T05:53:20.795Z] Telegram ID is required.
+[2024-10-16T05:53:44.929Z] User ID: 1818137668, Balance:2500
+[2024-10-16T05:54:47.550Z] Telegram ID is required.
+[2024-10-16T05:57:12.745Z] Telegram ID is required.
+[2024-10-16T05:57:14.782Z] Telegram ID is required.
+[2024-10-16T05:57:57.567Z] Telegram ID is required.
+[2024-10-16T05:57:59.157Z] Telegram ID is required.
+[2024-10-16T06:03:30.003Z] User ID: 1818137668, Balance:2500
+[2024-10-16T06:05:09.239Z] Telegram ID is required.
+[2024-10-16T07:27:47.273Z] User ID: 1807487473, Balance:10839
+[2024-10-16T07:27:48.787Z] User ID: 1807487473, Balance:10839
+[2024-10-16T07:27:59.505Z] User ID: 1807487473, Balance:10839
+[2024-10-16T07:28:13.744Z] User ID: 1783812558, Balance:3024
+[2024-10-16T07:28:17.624Z] User ID: 1783812558, Balance:3024
+[2024-10-16T07:28:49.424Z] Telegram ID is required.
+[2024-10-16T07:29:07.048Z] Telegram ID is required.
+[2024-10-16T07:29:50.768Z] Telegram ID is required.
+[2024-10-16T07:30:16.047Z] Telegram ID is required.
+[2024-10-16T07:31:39.512Z] Telegram ID is required.
+[2024-10-16T07:32:44.006Z] Telegram ID is required.
+[2024-10-16T07:33:07.080Z] Telegram ID is required.
+[2024-10-16T07:33:29.072Z] Telegram ID is required.
+[2024-10-16T07:33:49.064Z] Telegram ID is required.
+[2024-10-16T07:33:58.588Z] Telegram ID is required.
+[2024-10-16T07:34:11.574Z] Telegram ID is required.
+[2024-10-16T07:34:48.236Z] Telegram ID is required.
+[2024-10-16T07:34:57.169Z] Telegram ID is required.
+[2024-10-16T07:35:01.010Z] Telegram ID is required.
+[2024-10-16T07:35:59.771Z] Telegram ID is required.
+[2024-10-16T07:36:01.407Z] Telegram ID is required.
+[2024-10-16T07:36:04.493Z] Telegram ID is required.
+[2024-10-16T07:37:20.814Z] Telegram ID is required.
+[2024-10-16T07:37:41.720Z] Telegram ID is required.
+[2024-10-16T07:37:43.709Z] Telegram ID is required.
+[2024-10-16T07:37:45.365Z] Telegram ID is required.
+[2024-10-16T07:37:59.787Z] Telegram ID is required.
+[2024-10-16T17:03:47.029Z] Database query error: connect ETIMEDOUT
+[2024-10-16T17:09:51.711Z] Database query error: connect ETIMEDOUT
+[2024-10-16T17:13:10.194Z] Database query error: connect ETIMEDOUT
+[2024-10-16T17:13:57.708Z] Database query error: connect ETIMEDOUT
+[2024-10-16T17:19:54.481Z] Database query error: 
+[2024-10-16T17:19:54.487Z] Database query error: 
+[2024-10-16T17:20:01.620Z] Database query error: 
+[2024-10-16T17:20:06.952Z] Database query error: 
+[2024-10-16T17:22:25.004Z] Database query error: 
+[2024-10-16T17:29:48.058Z] Database query error: 
+[2024-10-16T17:32:48.804Z] Database query error: 
+[2024-10-16T17:36:43.564Z] Database query error: 
+[2024-10-16T17:37:34.682Z] Database query error: 
+[2024-10-16T17:48:38.661Z] User ID: 1702885015, Balance:6003
+[2024-10-16T17:48:41.247Z] User ID: 1702885015, Balance:6003
+[2024-10-16T17:50:21.083Z] User ID: 1702885015, Balance:6003
+[2024-10-16T17:50:34.235Z] User ID: 1702885015, Balance:6003
+[2024-10-16T17:51:25.846Z] User ID: 1746886025, Balance:7652
+[2024-10-16T17:51:42.218Z] User ID: 1746886025, Balance:7652
+[2024-10-16T18:05:16.912Z] Database query error: connect ETIMEDOUT
+[2024-10-16T18:07:24.146Z] Database query error: connect ETIMEDOUT
+[2024-10-16T18:07:31.242Z] Database query error: connect ETIMEDOUT
+[2024-10-16T18:09:54.297Z] Database query error: connect ETIMEDOUT
+[2024-10-16T18:12:13.225Z] Database query error: connect ETIMEDOUT
+[2024-10-16T18:17:51.923Z] Database query error: connect ETIMEDOUT
+[2024-10-16T20:46:44.138Z] Database query error: connect ETIMEDOUT
+[2024-10-16T20:46:45.481Z] Database query error: connect ETIMEDOUT
+[2024-10-16T20:47:41.506Z] Database query error: connect ETIMEDOUT
+[2024-10-16T20:52:13.936Z] User ID: 1746886025, Balance:7652
+[2024-10-16T20:52:23.555Z] User ID: 1746886025, Balance:7652
+[2024-10-16T22:13:23.340Z] User ID: 1746886025, Balance:7652
+[2024-10-16T22:13:24.240Z] User ID: 1746886025, Balance:7652
+[2024-10-17T02:05:46.724Z] User ID: 1746886025, Balance:7652
+[2024-10-17T02:05:56.027Z] User ID: 1746886025, Balance:7652
+[2024-10-17T02:06:08.476Z] User ID: 1746886025, Balance:7652
